@@ -15,4 +15,4 @@ python generate.py                      # Generate samples from the trained LSTM
 ```
 
 ## Acknowledge
-This repository contains the code originally forked from the [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm) that is modified to present attention layer into the model.
+This repository contains the code originally forked from the [Word-level language modeling RNN](https://github.com/pytorch/examples/tree/master/word_language_model) that is modified to present attention layer into the model.
