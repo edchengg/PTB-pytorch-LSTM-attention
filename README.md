@@ -2,7 +2,7 @@
 
 This repository is used for a language modelling pareto competition at TTIC. 
 I implemented an attention layer with the RNN model.
-I will upload the code later.
+
 ## Software Requirements
 
 This codebase requires Python 3, [PyTorch](http://pytorch.org/)
