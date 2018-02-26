@@ -1,4 +1,4 @@
-# Penn Tree Bank Language Modelling task with RNNS(LSTM,GRU) and Attention Layer
+# PTB Language Modelling task with RNNS(LSTM,GRU) and Attention Layer
 
 This repository is used for a language modelling pareto competition at TTIC. 
 I implemented an attention layer with the RNN model. 
