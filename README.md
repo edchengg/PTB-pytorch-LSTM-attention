@@ -2,7 +2,7 @@
 
 This repository is used for a language modelling pareto competition at TTIC. 
 I implemented an attention layer with the RNN model. 
-TODO: (Lei Mao suggests another way to implement the attention layer by breaking the LSTM class.)
+TODO: (Lei Mao suggests another way to implement the attention layer by breaking into the LSTM class.)
 
 ## Software Requirements
 
